@@ -18,7 +18,7 @@
 
 > A quick look at Bash automation in action
 
-![Preview](https://raw.githubusercontent.com/linuxteck/bash-automation/main/bash-preview.png)
+![Preview](https://github.com/linuxteck/linux-bash-scripting-automation-2026/blob/main/bash.png)
 
 ---
 
